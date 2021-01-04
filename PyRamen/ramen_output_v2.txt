@@ -10,3 +10,4 @@ nagomi shoyu {'01-count': 9132, '02-revenue': 100452.0, '03-cogs': 45660.0, '04-
 soft-shell miso crab ramen {'01-count': 9130, '02-revenue': 127820.0, '03-cogs': 63910.0, '04-profit': 63910.0}
 burnt garlic tonkotsu ramen {'01-count': 9070, '02-revenue': 126980.0, '03-cogs': 54420.0, '04-profit': 72560.0}
 vegetarian curry + king trumpet mushroom ramen {'01-count': 8824, '02-revenue': 114712.0, '03-cogs': 61768.0, '04-profit': 52944.0}
+We did not sell any: edamame, house salad, cucumber sunomono salad, hiyashi wakame seaweed salad, agedashi tofu, hiyayakko tofu, pork floss bao, kakuni bao, edamame fried gyoza (vegan), fried gyoza, takoyaki, rock shrimp tempura, soft-shell crab tempura, ebi katsu shrimp bao, green tea, coke, black sesame ice cream, matcha ice cream, mango mochi ice cream, strawberry mochi ice cream, black sesame creme brulee.
